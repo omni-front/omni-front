@@ -1,0 +1,81 @@
+<svg fill="none" viewBox="0 0 900 60" width="900" height="60" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        .bar {
+          width: 900px;
+          height: 60px;
+          background: #0a0a0f;
+          border: 1px solid rgba(63,63,70,0.15);
+          border-radius: 8px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: 32px;
+          font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+          position: relative;
+          overflow: hidden;
+        }
+
+        .bar::before {
+          content: '';
+          position: absolute;
+          top: 0; left: -100%;
+          width: 100%; height: 100%;
+          background: linear-gradient(90deg, transparent, rgba(59,130,246,0.03), transparent);
+          animation: shimmer 6s ease-in-out infinite;
+        }
+
+        @keyframes shimmer {
+          0% { left: -100%; }
+          100% { left: 100%; }
+        }
+
+        .item {
+          font-size: 11px;
+          color: #52525b;
+          letter-spacing: 2px;
+          text-transform: uppercase;
+          position: relative;
+          z-index: 1;
+        }
+
+        .dot {
+          display: inline-block;
+          width: 4px;
+          height: 4px;
+          border-radius: 50%;
+          margin-right: 8px;
+          vertical-align: middle;
+        }
+
+        .d1 { background: #3b82f6; }
+        .d2 { background: #8b5cf6; }
+        .d3 { background: #06b6d4; }
+        .d4 { background: #10b981; }
+        .d5 { background: #f59e0b; }
+        .d6 { background: #ef4444; }
+        .d7 { background: #ec4899; }
+        .d8 { background: #6366f1; }
+
+        @media (prefers-color-scheme: light) {
+          .bar { background: #ffffff; border-color: rgba(228,228,231,0.6); }
+          .item { color: #a1a1aa; }
+          .bar::before { background: linear-gradient(90deg, transparent, rgba(59,130,246,0.02), transparent); }
+        }
+      </style>
+      <div class="bar">
+        <span class="item"><span class="dot d1"></span>Python</span>
+        <span class="item"><span class="dot d2"></span>PyTorch</span>
+        <span class="item"><span class="dot d3"></span>LangChain</span>
+        <span class="item"><span class="dot d4"></span>FastAPI</span>
+        <span class="item"><span class="dot d5"></span>Docker</span>
+        <span class="item"><span class="dot d6"></span>AWS</span>
+        <span class="item"><span class="dot d7"></span>GCP</span>
+        <span class="item"><span class="dot d8"></span>PostgreSQL</span>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
