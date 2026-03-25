@@ -1,51 +1,52 @@
+
+<samp>
+
 <div align="center">
 
-```
- ██████╗ ███╗   ███╗███╗   ██╗██╗
-██╔═══██╗████╗ ████║████╗  ██║██║
-██║   ██║██╔████╔██║██╔██╗ ██║██║
-██║   ██║██║╚██╔╝██║██║╚██╗██║██║
-╚██████╔╝██║ ╚═╝ ██║██║ ╚████║██║
- ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝
-```
+### 全 — omni-front
 
-**AI / ML Engineer** · 人工知能エンジニア
+AI / ML Engineer
 
-*「機械に知能を、人間に自由を」*
+*機械に知能を、人間に自由を*<br>
+<sub>Intelligence to machines, freedom to humans.</sub>
 
 ---
 
-`LLM Systems` · `RAG Pipelines` · `Voice AI` · `Agent Architectures`
+LLM systems · RAG pipelines · voice AI · agent architectures
+
+Python · PyTorch · LangChain · FastAPI
 
 </div>
 
 <br>
 
-```python
-class OmniFront:
-    role      = "AI/ML Engineer"
-    stack     = ["Python", "PyTorch", "LangChain", "FastAPI"]
-    interests = ["LLM agents", "retrieval systems", "speech AI"]
-```
+#### 作品 — Work
+
+| | |
+|:--|:--|
+| [**Ad-Trafficking-Agent**](https://github.com/omni-front/Ad-Trafficking-Agent) | Autonomous ad ops agent — Vertex AI, Gmail API, Ad Manager |
+| [**AI_Agent**](https://github.com/omni-front/AI_Agent) | RAG assistant — LangGraph, GPT-4o, MongoDB Atlas vector search |
+| [**ConstructIQ**](https://github.com/omni-front/ConstructIQ) | Semantic search for building permits — FastAPI, Pinecone |
+| [**VoloHealthGPT**](https://github.com/omni-front/VoloHealthGPT) | Psychological support chatbot — Llama 3.1, RAG |
+| [**rag-from-scratch**](https://github.com/omni-front/rag-from-scratch) | Building RAG pipelines from zero |
+| [**langchain-master-class**](https://github.com/omni-front/langchain-master-class) | Chains, agents, tools, memory — hands-on notebooks |
 
 <br>
 
 <div align="center">
 
-<a href="https://github.com/omni-front/Humana-Medical-Voice-Agent"><b>Voice AI Agent</b></a> · <a href="https://github.com/omni-front/rag-from-scratch"><b>RAG From Scratch</b></a> · <a href="https://github.com/omni-front/Ad-Trafficking-Agent"><b>Ad Trafficking Agent</b></a> · <a href="https://github.com/omni-front/langchain-master-class"><b>LangChain Master Class</b></a>
-
-<br><br>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=omni-front&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&hide_title=true&hide_rank=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omni-front&theme=tokyonight&hide_border=true&background=00000000&stroke=00000000&ring=70a5fd&fire=bf91f3&currStreakLabel=c9d1d9&sideLabels=70a5fd&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=omni-front&theme=dark&hide_border=true&background=00000000&stroke=00000000&ring=555&fire=fff&currStreakLabel=999&sideLabels=555&dates=444&currStreakNum=ccc&sideNums=999" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=omni-front&theme=default&hide_border=true&background=00000000&stroke=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omni-front&theme=dark&hide_border=true&background=00000000&stroke=00000000&ring=555&fire=fff&currStreakLabel=999&sideLabels=555&dates=444&currStreakNum=ccc&sideNums=999" />
+</picture>
 
 <br><br>
 
 ---
 
-*常に学び、常に作る*
+<sub>常に学び、常に作る — always learning, always building</sub>
 
 </div>
+
+</samp>
