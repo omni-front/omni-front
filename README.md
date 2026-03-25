@@ -1,52 +1,65 @@
-
-<samp>
-
 <div align="center">
 
-### 全 — omni-front
-
-AI / ML Engineer
-
-*機械に知能を、人間に自由を*<br>
-<sub>Intelligence to machines, freedom to humans.</sub>
-
----
-
-LLM systems · RAG pipelines · voice AI · agent architectures
-
-Python · PyTorch · LangChain · FastAPI
-
-</div>
+<img src="./assets/header.svg" width="100%" alt="omni-front" />
 
 <br>
 
-#### 作品 — Work
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=300&size=14&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=30&lines=building+intelligent+systems+that+solve+real+problems;LLM+agents+%C2%B7+RAG+pipelines+%C2%B7+voice+AI;less+code+%C2%B7+more+impact)](https://github.com/omni-front)
 
-| | |
-|:--|:--|
-| [**Ad-Trafficking-Agent**](https://github.com/omni-front/Ad-Trafficking-Agent) | Autonomous ad ops agent — Vertex AI, Gmail API, Ad Manager |
-| [**AI_Agent**](https://github.com/omni-front/AI_Agent) | RAG assistant — LangGraph, GPT-4o, MongoDB Atlas vector search |
-| [**ConstructIQ**](https://github.com/omni-front/ConstructIQ) | Semantic search for building permits — FastAPI, Pinecone |
-| [**VoloHealthGPT**](https://github.com/omni-front/VoloHealthGPT) | Psychological support chatbot — Llama 3.1, RAG |
-| [**rag-from-scratch**](https://github.com/omni-front/rag-from-scratch) | Building RAG pipelines from zero |
-| [**langchain-master-class**](https://github.com/omni-front/langchain-master-class) | Chains, agents, tools, memory — hands-on notebooks |
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,langchain&theme=dark" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=fastapi,docker,aws,gcp&theme=dark" height="32" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<br>
+
+<table>
+<tr><td>
+
+**Featured Work**
+
+</td></tr>
+</table>
+
+[**Ad-Trafficking-Agent**](https://github.com/omni-front/Ad-Trafficking-Agent) — Autonomous ad operations using Vertex AI + Gmail API + Ad Manager
+
+[**AI_Agent**](https://github.com/omni-front/AI_Agent) — RAG-powered assistant with LangGraph, GPT-4o, MongoDB Atlas vector search
+
+[**ConstructIQ**](https://github.com/omni-front/ConstructIQ) — Semantic search API for building permits using vector embeddings + Pinecone
+
+[**VoloHealthGPT**](https://github.com/omni-front/VoloHealthGPT) — AI psychological support chatbot with Llama 3.1 and RAG architecture
+
+[**rag-from-scratch**](https://github.com/omni-front/rag-from-scratch) — Building retrieval-augmented generation from zero
+
+[**langchain-master-class**](https://github.com/omni-front/langchain-master-class) — Chains, agents, tools, memory — comprehensive hands-on notebooks
+
+<br>
+
+<img src="./assets/divider.svg" width="100%" />
 
 <br>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=omni-front&theme=dark&hide_border=true&background=00000000&stroke=00000000&ring=555&fire=fff&currStreakLabel=999&sideLabels=555&dates=444&currStreakNum=ccc&sideNums=999" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=omni-front&theme=default&hide_border=true&background=00000000&stroke=00000000" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omni-front&theme=dark&hide_border=true&background=00000000&stroke=00000000&ring=555&fire=fff&currStreakLabel=999&sideLabels=555&dates=444&currStreakNum=ccc&sideNums=999" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=omni-front&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=6e7681&currStreakNum=c9d1d9&sideNums=8b949e&dates=6e7681" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=omni-front&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=omni-front&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=6e7681&currStreakNum=c9d1d9&sideNums=8b949e&dates=6e7681" />
 </picture>
 
-<br><br>
+<br>
 
----
-
-<sub>常に学び、常に作る — always learning, always building</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omni-front/omni-front/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omni-front/omni-front/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/omni-front/omni-front/output/snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
-</samp>
+<br>
+
+<img src="./assets/footer.svg" width="100%" />
